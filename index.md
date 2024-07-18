@@ -1,2 +1,2 @@
 # This site... 
-This site demonstrates the funcionalities of github pages.
+This site demonstrates the functionalities of github pages.
